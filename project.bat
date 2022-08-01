@@ -1,1 +1,1 @@
-echo "This is jenkins sample project for webhook and poll scm, trial: 1"
+echo "This is jenkins sample project for webhook and poll scm, testing webhook trial: 2"
